@@ -36,4 +36,9 @@ body h1 {
     width: 500px;
     height: auto;
     flex: auto;
+    border-radius: 15px;
+}
+
+.wrapper a img:hover{
+    border: 1px solid black;
 }
