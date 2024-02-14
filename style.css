@@ -47,7 +47,3 @@ body {
     height: auto;
     border-radius: 15px;
 }
-
-.wrapper a img:hover {
-    border: 2px solid white;
-}
